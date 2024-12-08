@@ -9,3 +9,4 @@
 - **서버**: Spring Boot 내장 Tomcat
 - **데이터베이스**: Oracle Database Express Edition (XE) Release 11.2.0.2.0 (11gR2)
 - **프로그래밍 언어**: Java, Javascript, HTML, CSS
+- **버전 관리**: Git, GitHub
